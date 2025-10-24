@@ -1,0 +1,29 @@
+{
+  "name": "amazon-clone-website",
+  "version": "1.0.0",
+  "description": "A responsive Amazon clone website built with HTML and CSS",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server --port=3000"
+  },
+  "keywords": [
+    "amazon",
+    "clone",
+    "ecommerce",
+    "html",
+    "css",
+    "responsive",
+    "website"
+  ],
+  "author": "Rupam Mukherjee",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rupam179/amazon-clone-website.git"
+  },
+  "homepage": "https://Rupam179.github.io/amazon-clone-website"
+}
