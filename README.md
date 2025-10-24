@@ -116,4 +116,4 @@ This project is for educational purposes only.
 
 ## Live Demo
 
-🌐 **[View Live Demo](file:///D:/PROJECT/Amazon%20Clone%20Website%20Project/index.html)**
+🌐 **[View Live Demo](https://Rupam179.github.io/amazon-clone-website)**
