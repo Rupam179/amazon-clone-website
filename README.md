@@ -2,9 +2,7 @@
 
 A responsive Amazon clone website built with HTML and CSS, featuring a modern e-commerce interface with product listings, navigation, and interactive elements.
 
-## Author
-
-**Rupam Mukherjee**
+> **Author:** Rupam Mukherjee
 
 ## Features
 
@@ -39,15 +37,17 @@ Amazon Clone Website Project/
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Rupam179/amazon-clone-website.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd "Amazon Clone Website Project"
+   cd amazon-clone-website
    ```
 
 3. Open `index.html` in your web browser to view the website.
+
+**Or simply visit the live demo:** https://rupam179.github.io/amazon-clone-website
 
 ## Features Overview
 
@@ -110,15 +110,14 @@ The website is fully responsive and includes:
 
 This project is for educational purposes only.
 
-## Screenshots
+## 🌐 Live Demo
+
+**[🚀 View Live Website](https://rupam179.github.io/amazon-clone-website)**
+
+## 📱 Screenshots
 
 ### Desktop View
 ![Desktop Homepage](Amazon Clone Website Project/Images/desktop-homepage.png)
 
 ### Product Section
 ![Product Cards](Amazon Clone Website Project/Images/product-section.png)
-
-## Live Demo
-
-🚀 **Live demo will be available at:**
-`https://Rupam179.github.io/amazon-clone-website`
